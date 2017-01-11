@@ -12,7 +12,7 @@ namespace Sample1
         {
             Console.WriteLine("Hello, world!");
             Console.WriteLine("Press any button to exit!");
-            Console.ReadKey();
+            Console.ReadLine();
         }
     }
 }
